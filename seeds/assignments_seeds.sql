@@ -423,4 +423,4 @@ INSERT INTO assignments (id, name, content, duration, day, chapter) VALUES (422,
 INSERT INTO assignments (id, name, content, duration, day, chapter) VALUES (423, 'Culpa esse sint', 'Adipisci eaque quia exercitationem officiis et eligendi. Ea blanditiis qui placeat molestiae impedit. Et sit molestias. Perspiciatis molestiae aut molestiae aut. Aut qui enim quo. Temporibus molestiae nemo dolorem.', 30, 51, 11);
 INSERT INTO assignments (id, name, content, duration, day, chapter) VALUES (424, 'Ullam cumque', 'Assumenda autem non autem et impedit commodi ipsa. Nulla voluptatem et recusandae ut ducimus. Et laborum voluptate. Cupiditate quas rerum eum reprehenderit. Reprehenderit quae nisi est quod recusandae fuga.', 30, 51, 12);
 
-ALTER SEQUENCE assignments_id_seq RESTART WITH 425;
+-- ALTER SEQUENCE assignments_id_seq RESTART WITH 425;
